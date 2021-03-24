@@ -1,3 +1,6 @@
+//Question link
+//https://leetcode.com/problems/largest-number/
+
 bool compare(string a,string b)
     {
         return a+b > b+a;
