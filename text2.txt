@@ -1,0 +1,8 @@
+Python 3.1  - June 27 , 2009
+Python 3.2 - February 20, 2011
+Python 3.3 - September 29, 2012
+Python 3.4 - March 16, 2014
+Python 3.5 - September 13, 2015
+Python 3.6 - December 13, 2016
+Python 3.7 - June 27, 2018
+Python 3.8 - October 14, 2019
